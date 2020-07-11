@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#21d5bc</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="transparent">#00000000</color>
+    <color name="joinFont">#B3252A</color>
+    <color name="joinButton">#FFDC57</color>
+    <color name="shadowButton">#B4282B</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="font_common_1">#424242</color>
+    <color name="font_common_2">#a1a1a1</color>
+    <color name="font_blue">#42369a</color>
+    <color name="commom_background">#f3f3f3</color>
+    <color name="font_update">#5E5E5E</color>
+    <color name="font_update_btn">#FF7342</color>
+</resources>

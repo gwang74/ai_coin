@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(t,a,e){"use strict";e.r(a);var n=function(){var t=this,a=t.$createElement,e=t._self._c||a;return e("div",{staticClass:"about"},[e("h1",[t._v("This is an about page")]),e("van-button",{attrs:{type:"primary"}},[t._v("默认按钮")])],1)},l=[],s=e("15f8"),o={created:function(){var t=s["jtWallet"].createWallet("swt");console.log(t)}},r=o,u=e("2877"),c=Object(u["a"])(r,n,l,!1,null,null,null);a["default"]=c.exports}}]);
+//# sourceMappingURL=about.fc0741c7.js.map

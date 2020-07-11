@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">AICOIN</string>
+    <string name="error_downloading">下载异常!</string>
+    <string name="msg_file_downloaded">下载完成</string>
+    <string name="channel_description">Weidex文件下载</string>
+    <string name="channel_name">Weidex通知</string>
+    <string name="file_name">weidex</string>
+    <string name="success_permission">授权成功!</string>
+    <string name="error_permission">未授权,无法继续操作！</string>
+    <string name="msg_permissionTitle">权限异常</string>
+    <string name="msg_permissionRequest">应用权限不足,无法访问本地资源。\n可点击\"设置\"-\"权限\"-\"储存空间\",授权后继续,否则无法继续操作。</string>
+    <string name="button_setting">设置</string>
+    <string name="button_cancel">知道了</string>
+    <string name="msg_versionUpdateTitle">版本更新</string>
+    <string name="msg_downloadTitle">下载异常</string>
+    <string name="msg_fileCorrect">网络问题或其他未知原因导致下载文件错误,是否重新下载?</string>
+    <string name="user_agent">Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Mobile Safari/537.36</string>
+    <string name="msg_haveNewApk">检测到您本地有最新版威链，是否立即安装?</string>
+    <string name="msg_miui_notification">检测到未开启通知权限。\n您可通过点击\"设置\"-\"通知与状态栏\"-\"通知管理\"界面打开应用通知权限,否则您将无法收到相关通知。</string>
+    <string name="button_continue">继续</string>
+    <string name="msg_netErrTitle">网络异常</string>
+    <string name="msg_netError">网络或远端服务器异常,请您稍后再试。</string>
+    <string name="button_ok">退出</string>
+    <string name="loadErr">抱歉,加载失败...</string>
+    <string name="loadText">稍等,加载中...</string>
+    <string name="assetsUpdate_title">内容更新</string>
+    <string name="assetsUp_content">有新的内容更新了,是否立即应用?</string>
+    <string name="cancel">取消</string>
+    <string name="submit">确定</string>
+</resources>

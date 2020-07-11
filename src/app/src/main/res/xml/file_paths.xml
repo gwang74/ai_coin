@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-path
+        name="external"
+        path="Download" />
+    <external-files-path
+        name="apk"
+        path="Download" />
+    <external-cache-path
+        name="image"
+        path="" />
+    <external-path
+        name="camera"
+        path="DCIM/Camera" />
+</paths>
